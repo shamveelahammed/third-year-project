@@ -1,0 +1,22 @@
+<annotation>
+    <folder>drone _ Google Search</folder>
+    <filename>Z (4).jpg</filename>
+    <size>
+        <width>336</width>
+        <height>150</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Drone</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>4</xmin>
+            <ymin>2</ymin>
+            <xmax>334</xmax>
+            <ymax>150</ymax>
+        </bndbox>
+    </object>
+</annotation>
